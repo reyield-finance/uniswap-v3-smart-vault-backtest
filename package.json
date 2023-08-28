@@ -1,0 +1,14 @@
+{
+  "name": "uniswap-v3-smart-vault-backtest",
+  "version": "1.0.0",
+  "description": "backtest for uniswap v3 smart vault",
+  "main": "index.js",
+  "type": "module",
+  "repository": "git@github.com:reyield-finance/uniswap-v3-smart-vault-backtest.git",
+  "author": "Kyle Wnag <kyle@bitgin.net>",
+  "license": "MIT",
+  "dependencies": {
+    "json2csv": "^6.0.0-alpha.2",
+    "uniswap-v3-backtest": "^1.1.2"
+  }
+}
